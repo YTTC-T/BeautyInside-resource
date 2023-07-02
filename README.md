@@ -118,6 +118,14 @@ design
 
 ## 💻 구현 화면
 
+| 로그인                                                                                             | 회원가입                                                                                           |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_signin.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_signup.png?raw=true) |
+
+| 메인                                                                                                | 퍼스널컬러 진단                                                                                      |
+| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_main_re.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_personal.png?raw=true) |
+
 <br>
 
 ## 👍팀원&역할 분담
