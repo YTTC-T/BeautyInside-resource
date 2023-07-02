@@ -11,7 +11,7 @@
 ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/logo-alt-2%202.png?raw=true)
 
 거래 API를 활용해 코로나 시기에 오프라인 쇼핑을 하지 못하는 소비자들을 위한  
-온라인 상으로 퍼스널 컬러 진단을 통해 제품을 추천 받고 구매할 수 있는  
+온라인 상으로 퍼스널 컬러를 진단 하고 진단 결과에 따른 제품을 추천 받고 구매할 수 있는  
 온라인 메이크업 제품 판매 쇼핑몰입니다.
 
 <br>
@@ -118,13 +118,60 @@ design
 
 ## 💻 구현 화면
 
+<details>
+<summary>보기</summary>
+<div markdown="1">
+
 | 로그인                                                                                             | 회원가입                                                                                           |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_signin.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_signup.png?raw=true) |
 
-| 메인                                                                                                | 퍼스널컬러 진단                                                                                      |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_main_re.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_personal.png?raw=true) |
+| 퍼스널컬러                                                                                           | 퍼스널컬러 진단                                                                                       |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_personal.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_personal2.png?raw=true) |
+
+| 퍼스널컬러 결과                                                                                       | 메인                                                                                             |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_personal3.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_main.png?raw=true) |
+
+| 베스트                                                                                           | 메이크업                                                                                           |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_best.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_makeup.png?raw=true) |
+
+| 장바구니                                                                                         | 결제                                                                                                |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_cart.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_payment.png?raw=true) |
+
+| 구매내역                                                                                              | 구매내역상세                                                                                          |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_purchase1.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_purchase2.png?raw=true) |
+
+| 계좌관리                                                                                             | 계좌등록                                                                                             |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_account1.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_account2.png?raw=true) |
+
+| 상세정보                                                                                           | 관리자-대시보드                                                                                      |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/client_detail.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_dashboard.png?raw=true) |
+
+| 관리자-상품관리                                                                                     | 관리자-상품상세                                                                                     |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_product1.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_product2.png?raw=true) |
+
+| 관리자-상품추가                                                                                | 관리자-상품수정                                                                                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_add.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_edit.png?raw=true) |
+
+| 관리자-거래내역관리                                                                                  | 관리자-거래내역상세                                                                                  |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_purchase1.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_purchase2.png?raw=true) |
+
+| 관리자-사용자 목록                                                                              | 관리자-로그인                                                                                     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_user.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/img/admin_login2.png?raw=true) |
+
+</div>
+</details>
 
 <br>
 
@@ -134,3 +181,15 @@ design
 | :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: |
 |        ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/junyoung_re.png?raw=true)         |                                         ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/daseul_re.png?raw=true)                                         | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/yongsu_re.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/suyeon_re.png?raw=true) |
 | 와이어프레임, UI, 사용자-퍼스널 컬러 진단 페이지, 사용자-회원가입, 사용자-로그아웃, 사용자-메인, 사용자-상세정보 | 와이어프레임, UI, 사용자-장바구니, 사용자-결제, 사용자-계좌관리, 사용자-구매내역,상세, 관리자-대시보드, 관리자-상품목록/상세/등록/수정, 관리자-거래내역/상세, 관리자-사용자목록 |     사용자-베스트, 사용자-메이크업, 사용자-로그인, 사용자-회원가입, 사용자-로그인인증(헤더)     |                          사용자-회원가입, 사용자-퍼스널컬러진단페이지                           |
+
+## 관리자 계정
+
+<details>
+<summary>보기</summary>
+<div markdown="1">
+
+이메일: admin@bul4jo.com  
+비밀번호: 1q2w3e4r
+
+</div>
+</details>
