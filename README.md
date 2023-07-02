@@ -182,6 +182,8 @@ design
 |        ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/junyoung_re.png?raw=true)         |                                         ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/daseul_re.png?raw=true)                                         | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/yongsu_re.png?raw=true) | ![image](https://github.com/YTTC-T/BeautyInside-resource/blob/main/prof/suyeon_re.png?raw=true) |
 | 와이어프레임, UI, 사용자-퍼스널 컬러 진단 페이지, 사용자-회원가입, 사용자-로그아웃, 사용자-메인, 사용자-상세정보 | 와이어프레임, UI, 사용자-장바구니, 사용자-결제, 사용자-계좌관리, 사용자-구매내역,상세, 관리자-대시보드, 관리자-상품목록/상세/등록/수정, 관리자-거래내역/상세, 관리자-사용자목록 |     사용자-베스트, 사용자-메이크업, 사용자-로그인, 사용자-회원가입, 사용자-로그인인증(헤더)     |                          사용자-회원가입, 사용자-퍼스널컬러진단페이지                           |
 
+<br>
+
 ## 관리자 계정
 
 <details>
